@@ -304,6 +304,7 @@
   border-radius: 16px;
 }
 
+/* styling the about myself section */
 .About-myself {
   position: absolute;
   width: 375px;
@@ -314,3 +315,234 @@
 
   /* background-color: blue; */
 }
+
+.top {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 30px;
+  gap: 12px;
+  width: 327px;
+  height: 409px;
+  left: 24px;
+  top: 114px;
+  border-radius: 0;
+}
+
+#primary-heading {
+  width: 300px;
+  height: 101px;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 52px;
+  display: flex;
+  align-items: center;
+  color: #172b4d;
+}
+
+#primary-paragraph {
+  width: 327px;
+  height: 144px;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #344563;
+}
+
+#social-media {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0;
+  gap: 16px;
+  width: 200px;
+  height: 80px;
+}
+
+#supoorting-text {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0;
+  gap: 8px;
+  width: 117px;
+  height: 24px;
+}
+
+#lets-connect {
+  width: 125px;
+  height: 24px;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #7f8cff;
+  margin-bottom: -15px;
+}
+
+#frame1 li {
+  display: inline;
+  flex-direction: row;
+  align-items: center;
+  width: 0;
+  height: 40px;
+  padding: 5px;
+}
+
+.my-resume {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 12px;
+  gap: 10px;
+  margin-top: 20px;
+  width: 120px;
+  height: 48px;
+  border: 1px solid #6070ff;
+  border-radius: 8px;
+}
+
+#normal-button {
+  width: 138px;
+  height: 24px;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #396df2;
+}
+
+.skills {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0;
+  width: 327px;
+  height: 464.15px;
+}
+
+#frame12 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0;
+  width: 327px;
+  height: 320.15px;
+}
+
+#language-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 12px;
+  gap: 12px;
+  width: 327px;
+  height: 248.15px;
+}
+
+/* #frame7 {
+    width: 327px;
+height: 72px;
+
+} */
+
+/* #union {
+    display: flex;
+flex-direction: row;
+align-items: flex-end;
+padding: 8px;
+
+position: absolute;
+width: 40px;
+height: 40px;
+right: 26px;
+border-radius: 8px;
+top: calc(50% - 40px/2);
+
+} */
+#languages {
+  position: absolute;
+  height: 24px;
+  left: 50px;
+  right: 78px;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  color: #000;
+}
+
+/* #language-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 12px;
+  gap: 12px;
+  width: 327px;
+  left: 12px;
+  height: 248.15px;
+} */
+
+#frame9 {
+  width: 303px;
+  height: 66.72px;
+  background: #f7f7f9;
+  border-radius: 8px;
+  margin-top: 50px;
+}
+
+#frame10 {
+  width: 303px;
+  height: 66.72px;
+  background: #f7f7f9;
+  border-radius: 8px;
+}
+
+#frame11 {
+  background: #f7f7f9;
+  border-radius: 8px;
+  width: 303px;
+  height: 66.72px;
+}
+
+.frame8 {
+  width: 327px;
+  height: 72px;
+}
+
+#separator-bottom {
+  position: absolute;
+  height: 1px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: #dfe1e6;
+}
+
+#chevron-icon {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 8px;
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  right: 26px;
+  top: calc(50% - 40px / 2);
+  border-radius: 8px;
+}
+
+/* send of styling the about myself section */
