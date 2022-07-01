@@ -108,6 +108,13 @@
   border-radius: 50%;
 }
 
+#counter1 {
+  width: 8px;
+  height: 8px;
+  background: #c1c7d0;
+  border-radius: 50%;
+}
+
 #role {
   width: 88px;
   font-family: 'Poppins', sans-serif;
@@ -231,8 +238,8 @@
   padding: 12px;
   gap: 10px;
   position: absolute;
-  width: 124px;
-  height: 48px;
+  width: 100px;
+  height: 30px;
   border: 1px solid #6070ff;
   border-radius: 8px;
   margin-top: 20px;
@@ -293,6 +300,13 @@
 }
 
 #work2counter {
+  width: 8px;
+  height: 8px;
+  background: #c1c7d0;
+  border-radius: 50%;
+}
+
+#work2counter1 {
   width: 8px;
   height: 8px;
   background: #c1c7d0;
@@ -422,8 +436,8 @@
   padding: 12px;
   gap: 10px;
   position: absolute;
-  width: 124px;
-  height: 48px;
+  width: 100px;
+  height: 30px;
   border: 1px solid #6070ff;
   border-radius: 8px;
   margin-top: 20px;
@@ -483,6 +497,13 @@
 }
 
 #work3counter {
+  width: 8px;
+  height: 8px;
+  background: #c1c7d0;
+  border-radius: 50%;
+}
+
+#work3counter1 {
   width: 8px;
   height: 8px;
   background: #c1c7d0;
@@ -612,8 +633,8 @@
   padding: 12px;
   gap: 10px;
   position: absolute;
-  width: 124px;
-  height: 48px;
+  width: 100px;
+  height: 30px;
   border: 1px solid #6070ff;
   border-radius: 8px;
   margin-top: 20px;
@@ -674,6 +695,13 @@
 }
 
 #work4counter {
+  width: 8px;
+  height: 8px;
+  background: #c1c7d0;
+  border-radius: 50%;
+}
+
+#work4counter1 {
   width: 8px;
   height: 8px;
   background: #c1c7d0;
@@ -803,8 +831,8 @@
   padding: 12px;
   gap: 10px;
   position: absolute;
-  width: 124px;
-  height: 48px;
+  width: 100px;
+  height: 30px;
   border: 1px solid #6070ff;
   border-radius: 8px;
   margin-top: 20px;
