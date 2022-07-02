@@ -1197,26 +1197,6 @@
   height: 248.15px;
 }
 
-/* #frame7 {
-    width: 327px;
-height: 72px;
-
-} */
-
-/* #union {
-    display: flex;
-flex-direction: row;
-align-items: flex-end;
-padding: 8px;
-
-position: absolute;
-width: 40px;
-height: 40px;
-right: 26px;
-border-radius: 8px;
-top: calc(50% - 40px/2);
-
-} */
 #languages {
   position: absolute;
   height: 24px;
@@ -1231,18 +1211,6 @@ top: calc(50% - 40px/2);
   align-items: center;
   color: #000;
 }
-
-/* #language-list {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding: 12px;
-  gap: 12px;
-  width: 327px;
-  left: 12px;
-  height: 248.15px;
-} */
-
 #frame9 {
   width: 303px;
   height: 66.72px;
