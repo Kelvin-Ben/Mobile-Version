@@ -1058,7 +1058,7 @@
   margin-top: -10px;
 }
 
-#work4see-project br {
+#work4see-project p {
   width: 100px;
   height: 24px;
   font-family: 'Poppins', sans-serif;
@@ -1144,7 +1144,7 @@
   border-radius: 8px;
 }
 
-#my-resume h4 {
+#my-resume nav {
   font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 500;
