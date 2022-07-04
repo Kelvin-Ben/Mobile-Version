@@ -498,7 +498,7 @@
   margin-top: -10px;
 }
 
-#see-project h4 {
+#see-project b {
   width: 100px;
   height: 24px;
   font-family: 'Poppins', sans-serif;
@@ -685,7 +685,7 @@
   margin-top: -10px;
 }
 
-#work2see-project h6 {
+#work2see-project strong {
   width: 100px;
   height: 24px;
   font-family: 'Poppins', sans-serif;
@@ -871,7 +871,7 @@
   margin-top: -10px;
 }
 
-#work3see-project nav {
+#work3see-project i {
   width: 100px;
   height: 24px;
   font-family: 'Poppins', sans-serif;
@@ -1058,7 +1058,7 @@
   margin-top: -10px;
 }
 
-#work4see-project h4 {
+#work4see-project br {
   width: 100px;
   height: 24px;
   font-family: 'Poppins', sans-serif;
