@@ -496,8 +496,12 @@
   border: 1px solid #6070ff;
   border-radius: 8px;
   margin-top: -10px;
+  background-color: white;
+  transition-duration: 0.6s;
 }
-
+#see-project:hover {
+  background-color: #6070ff;
+}
 #see-project b {
   width: 100px;
   height: 24px;
@@ -510,9 +514,11 @@
   align-items: center;
   text-align: center;
   letter-spacing: 0.02em;
-  color: #396df2;
+  color: #000000;
 }
-
+#see-project b:hover{
+  color: #ffffff;
+}
 /* end of styling section work1 */
 
 .work2 {
@@ -683,6 +689,11 @@
   border: 1px solid #6070ff;
   border-radius: 8px;
   margin-top: -10px;
+  background-color: white;
+  transition-duration: 0.6s;
+}
+#work2see-project:hover {
+  background-color: #6070ff;
 }
 
 #work2see-project strong {
@@ -697,9 +708,11 @@
   align-items: center;
   text-align: center;
   letter-spacing: 0.02em;
-  color: #396df2;
+  color: #000000;
 }
-
+#work2see-project strong:hover {
+  color: #ffffff;
+}
 /* end of styling section work2 */
 .work3 {
   display: flex;
@@ -869,8 +882,12 @@
   border: 1px solid #6070ff;
   border-radius: 8px;
   margin-top: -10px;
+  background-color: white;
+  transition-duration: 0.6s;
 }
-
+#work3see-project:hover {
+  background-color: #6070ff;
+}
 #work3see-project i {
   width: 100px;
   height: 24px;
@@ -883,9 +900,11 @@
   align-items: center;
   text-align: center;
   letter-spacing: 0.02em;
-  color: #396df2;
+  color: #000000;
 }
-
+#work3see-project i:hover {
+  color: #ffffff;
+}
 /* end of styling work3 card */
 .work4 {
   display: flex;
@@ -1056,8 +1075,12 @@
   border: 1px solid #6070ff;
   border-radius: 8px;
   margin-top: -10px;
+  background-color: #ffffff;
+  transition-duration: 0.6s;
 }
-
+#work4see-project:hover {
+  background-color: #6070ff;
+}
 #work4see-project b {
   width: 100px;
   height: 24px;
@@ -1070,9 +1093,12 @@
   align-items: center;
   text-align: center;
   letter-spacing: 0.02em;
-  color: #396df2;
+  color: #000000;
+  
 }
-
+#work4see-project b:hover {
+  color: #ffffff;
+}
 /* end of styling work */
 
 /* styling the about myself section */
@@ -1142,8 +1168,12 @@
   height: 48px;
   border: 1px solid #6070ff;
   border-radius: 8px;
+  background-color: #ffffff;
+  transition-duration: 0.6s;
 }
-
+#my-resume:hover {
+  background-color: #396df2;
+}
 #my-resume span {
   font-family: 'Poppins', sans-serif;
   font-style: normal;
@@ -1153,9 +1183,11 @@
   display: flex;
   align-items: center;
   text-align: center;
-  color: #396df2;
+  color: #000000;
 }
-
+#my-resume span:hover {
+  color: #ffffff;
+}
 .skill-list {
   display: flex;
   flex-direction: column;
