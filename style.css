@@ -1191,6 +1191,20 @@ body {
   transition-duration: 0.6s;
 }
 
+.Get-It-Touch span {
+  width: 108px;
+  height: 24px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #6070ff;
+}
+
 #my-resume:hover {
   background-color: #396df2;
 }
@@ -1567,20 +1581,6 @@ body {
   top: 200px;
   left: 20px;
   margin-top: 10px;
-}
-
-.Get-It-Touch span {
-  width: 108px;
-  height: 24px;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 17px;
-  line-height: 24px;
-  display: flex;
-  align-items: center;
-  text-align: center;
-  letter-spacing: 0.03em;
-  color: #6070ff;
 }
 
 #content p {
