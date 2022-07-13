@@ -22,6 +22,7 @@ body {
   left: 0;
   top: 0;
   background: #fff;
+  border-bottom-left-radius: 100px;
 }
 
 /* headline section */
@@ -1127,6 +1128,7 @@ body {
   height: 1263px;
   top: 3506px;
   background: #fff;
+  border-top-right-radius: 100px;
 }
 
 .top {
@@ -1535,7 +1537,7 @@ body {
   position: absolute;
   background-color: #6070ff;
   width: 375px;
-  height: 900px;
+  height: 800px;
   left: 0;
   top: 4900px;
   border-top-left-radius: 100px;
@@ -1604,7 +1606,7 @@ form {
   width: 300px;
   border-radius: 8px;
   left: 20px;
-  margin-top: -80px;
+  margin-top: -120px;
 }
 
 .Get-It-Touch {
@@ -1616,7 +1618,7 @@ form {
   width: 140px;
   height: 48px;
   left: 24px;
-  top: 780px;
+  top: 260px;
   background: #fff;
   border-radius: 8px;
 }
@@ -1629,20 +1631,20 @@ form {
 #ellipse55 {
   position: absolute;
   left: 303.74px;
-  top: 790.27px;
+  top: 710.27px;
 }
 
 #rectangle77 {
   position: absolute;
   left: 300px;
-  top: 760px;
+  top: 680px;
 }
 
 #home-indicator {
   position: absolute;
   width: 375px;
   height: 34px;
-  top: 860px;
+  top: 750px;
   left: calc(50% - 375px / 2);
   bottom: 0;
   margin-bottom: 5px;
