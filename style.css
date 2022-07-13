@@ -1660,10 +1660,32 @@ form {
   background: #0d151e;
 }
 
-#name {
-  margin: 20px;
-  border-radius: 5px;
-  font-family: 'Poppins', sans-serif;
+.name {
+/* Mono/White */
+height: 48px;
+background: #FFFFFF;
+/* Base/100 */
+
+border: 1px solid #CFD8DC;
+border-radius: 8px;
+}
+
+.input-form {
+  display: flex;
+  border: none;
+  font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 20px;
+/* or 118% */
+
+display: flex;
+align-items: center;
+
+/* Neutral/N800 */
+
+color: #172B4D;
 }
 
 #email {
@@ -1673,7 +1695,24 @@ form {
 }
 
 #message {
-  border-radius: 5px;
-  margin: 10px;
-  font-family: 'Poppins', sans-serif;
+ /* Mono/White */
+
+background: #FFFFFF;
+/* Base/100 */
+height: 170px;
+border: 1px solid #CFD8DC;
+border-radius: 8px;
+}
+
+#message textarea {
+  background: #FFFFFF;
+/* Base/100 */
+display: flex;
+border: 1px solid #CFD8DC;
+border-radius: 8px;
+height: 90%;
+width: 90%;
+border: none;
+
+
 }
