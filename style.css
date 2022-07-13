@@ -1543,6 +1543,16 @@ body {
   border-top-left-radius: 100px;
 }
 
+.text {
+  /* Mono/White */
+
+background: #FFFFFF;
+/* Base/100 */
+
+border: 1px solid #CFD8DC;
+border-radius: 8px;
+}
+
 #ellipse122 {
   left: 150px;
   top: 100px;
