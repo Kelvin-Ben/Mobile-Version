@@ -1538,6 +1538,7 @@ body {
   height: 900px;
   left: 0;
   top: 4900px;
+  border-top-left-radius: 100px;
 }
 
 #ellipse122 {
