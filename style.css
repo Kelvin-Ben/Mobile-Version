@@ -1546,17 +1546,6 @@ body {
   border-top-left-radius: 100px;
 }
 
-.text {
-  /* Mono/White */
-
-  background: #fff;
-
-  /* Base/100 */
-
-  border: 1px solid #cfd8dc;
-  border-radius: 8px;
-}
-
 #ellipse122 {
   left: 150px;
   top: 100px;
@@ -1740,4 +1729,3 @@ form {
   border-radius: 10px;
   background: #0d151e;
 }
-
