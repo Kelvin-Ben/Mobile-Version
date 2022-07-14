@@ -13,6 +13,7 @@
 
 body {
   background: #e5e5e5;
+  display: flex;
 }
 
 .headline {
@@ -83,7 +84,7 @@ body {
   color: #172b4d;
   font-style: normal;
   font-family: 'Poppins', sans-serif;
-  font-weight: 900;
+  font-weight: 700;
   font-size: 30px;
   line-height: 52px;
   display: flex;
@@ -937,15 +938,12 @@ body {
   color: #fff;
 }
 
-/* end of styling work3 card */
 .work4 {
   display: flex;
   flex-direction: column;
   align-items: center;
   padding: 16px;
   gap: 12px;
-
-  /* top: 744px; */
   box-sizing: border-box;
   width: 327px;
   height: 596px;
@@ -954,7 +952,6 @@ body {
   border-radius: 16px;
 }
 
-/* styling work4 card */
 #work4frame ul {
   width: 236px;
   height: 32px;
@@ -1125,7 +1122,7 @@ body {
 .About-myself {
   position: absolute;
   width: 375px;
-  height: 1263px;
+  height: 1180px;
   top: 3506px;
   background: #fff;
   border-top-right-radius: 100px;
@@ -1211,6 +1208,11 @@ body {
   background-color: #396df2;
 }
 
+.Get-It-Touch span:hover {
+  color: #fff;
+  transition-duration: 0.6s;
+}
+
 #my-resume span {
   font-family: 'Poppins', sans-serif;
   font-style: normal;
@@ -1225,6 +1227,7 @@ body {
 
 #my-resume span:hover {
   color: #fff;
+  transition-duration: 0.6s;
 }
 
 .skill-list {
@@ -1534,12 +1537,12 @@ body {
 }
 
 .footer {
-  position: absolute;
+  position: relative;
   background-color: #6070ff;
   width: 375px;
   height: 800px;
   left: 0;
-  top: 4900px;
+  top: 4800px;
   border-top-left-radius: 100px;
 }
 
@@ -1607,16 +1610,58 @@ border-radius: 8px;
 }
 
 form {
-  position: absolute;
-  margin: 0 auto;
-  padding: 1em;
+  display: grid;
+  margin: 20px;
+  position: relative;
+  padding: 10px;
   border: none;
-  top: 500px;
+  top: 350px;
   height: auto;
-  width: 300px;
+  width: 350px;
   border-radius: 8px;
-  left: 20px;
-  margin-top: -120px;
+  left: -10px;
+}
+
+.name1 {
+  margin: 10px;
+  border-radius: 8px;
+  border: none;
+  width: 327px;
+  height: 48px;
+  background: #fff;
+  left: 0;
+}
+
+#name {
+  display: flex;
+  align-items: center;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 20px;
+  font-family: 'Poppins', sans-serif;
+  padding: auto;
+  border: none;
+  background: none;
+  margin: 10px;
+  box-sizing: border-box;
+  width: 180px;
+}
+
+#email {
+  display: flex;
+  align-items: center;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 20px;
+  font-family: 'Poppins', sans-serif;
+  padding: auto;
+  border: none;
+  background: none;
+  margin: 10px;
+  box-sizing: border-box;
+  width: 180px;
 }
 
 .Get-It-Touch {
@@ -1624,40 +1669,65 @@ form {
   flex-direction: row;
   align-items: center;
   padding: 12px 16px;
-  position: absolute;
   width: 140px;
   height: 48px;
   left: 24px;
-  top: 260px;
   background: #fff;
   border-radius: 8px;
+  border: none;
 }
 
 .Get-It-Touch:hover {
-  background-color: #396df2;
+  background-color: #6070ff;
   transition-duration: 0.6s;
+}
+
+.message {
+  margin: 10px;
+  background: #fff;
+  border: 1px solid #cfd8dc;
+  border-radius: 8px;
+  width: 327px;
+}
+
+#message {
+  left: 16px;
+  right: 38px;
+  top: 15px;
+  bottom: 15px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+  font-family: 'Poppins', sans-serif;
+  color: #b3bac5;
+  width: 273px;
+  height: 140px;
+  padding: auto;
+  margin: 10px;
+  border: none;
 }
 
 #ellipse55 {
   position: absolute;
   left: 303.74px;
-  top: 710.27px;
+  top: 730.27px;
 }
 
 #rectangle77 {
   position: absolute;
   left: 300px;
-  top: 680px;
+  top: 700px;
 }
 
 #home-indicator {
   position: absolute;
   width: 375px;
   height: 34px;
-  top: 750px;
+  top: 765px;
   left: calc(50% - 375px / 2);
   bottom: 0;
-  margin-bottom: 5px;
+  margin-bottom: 2px;
 }
 
 #home-indicator div {
@@ -1669,6 +1739,7 @@ form {
   border-radius: 10px;
   background: #0d151e;
 }
+<<<<<<< HEAD
 
 .name {
 /* Mono/White */
@@ -1726,3 +1797,5 @@ border: none;
 
 
 }
+=======
+>>>>>>> 5df6542 (Made changes to the form)
